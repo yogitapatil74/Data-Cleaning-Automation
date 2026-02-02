@@ -1,6 +1,5 @@
-# Data-Cleaning-Automation
-Automated Python pipeline for data preprocessing and standardization. Features modular OOP design and professional logging. 
 # Data Cleaning & Workflow Automation
+Automated Python pipeline for data preprocessing and standardization. Features modular OOP design and professional logging. 
 
 ##  Overview
 As highlighted in my CV, I developed this automation script to handle messy datasets. It replaces manual Excel cleaning with a Python-based pipeline, improving processing efficiency by **40%**.
